@@ -17,3 +17,12 @@ console.log(a);
 
 let str = null;
 console.log(typeof str);
+
+// Chapter Project   Miles to Km Convert
+
+let miles = parseInt(prompt(" Enter the Distance in  miles "));
+let kilomter = miles * 1.6;
+
+document.write(`Total Distance in km is  ` + kilomter);
+
+// chapter project 2  BMI calculator
