@@ -1,31 +1,23 @@
-// 💛 Calculator App
+alert("Assignment = 01: SIMPLE CALCULATOR ");
 
-let number1 = +prompt("Enter the Number One");
+let num1 = parseInt(prompt("Enter First Number"));
 
-let operator = prompt(`Enter the operator + , - , * , / ,`);
+let opprator = prompt("+ , - , * , / ");
 
-let number2 = +prompt("Enter the Number Two");
+let num2 = parseInt(prompt("Enter Second Number"));
 
-if (operator == " + ") {
-  result = parseInt( number1 + number2);
-  window.alert(result);
-} 
-
-// else if (operator == " - ") {
-//   result = parseInt(number1 - number2);
-//   window.alert(result);
-// }
-
-// else if (operator == " * ") {
-//   result = number1 * number2;
-//   window.alert(result);
-// } 
-
-// else if (operator == " / ") {
-//   result = number1 / number2;
-//   window.alert(result);
-// }
-
-// else {
-//   document.write("Enter Correct Value");
-// }
+if (opprator == "+") 
+{
+  console.log(num1 + num2);
+}
+ else if (opprator == "-") {
+  console.log(num1 - num2);
+}
+ else if (opprator == "*") {
+   console.log(num1 * num2);
+ } 
+ else if (opprator == "/") {
+   console.log(num1 / num2);
+ } else {
+   console.log("Enter Correct Value ");
+ }
