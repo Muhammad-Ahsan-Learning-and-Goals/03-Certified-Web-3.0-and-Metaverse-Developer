@@ -69,12 +69,6 @@ console.log(" 💚 Start Function Topic");
 //   console.log("You are Pass ");
 // } else {
 //   console.log("You Are fail ");
+console.log(" 💚 End Function Topic");
 // }
 
-// 😍 Arrow Function
-
-let arrowFunc = () => {
-  console.log("Simple Arrow Function");
-};
-
-arrowFunc();
