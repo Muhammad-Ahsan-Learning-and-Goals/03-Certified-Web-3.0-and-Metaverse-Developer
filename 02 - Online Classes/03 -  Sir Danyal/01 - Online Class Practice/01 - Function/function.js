@@ -30,3 +30,4 @@ console.log("Start Function Topic");
 function welcome() {
   console.log("Hello , Muhammad Ahsan");
 }
+welcome();
