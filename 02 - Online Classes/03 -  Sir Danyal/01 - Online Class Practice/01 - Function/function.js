@@ -1,12 +1,12 @@
-// print  current date
-
 console.log(" 💚 Start Date Topic ");
+
+// 😍 print  current date
 
 // const date = new Date();
 // console.log(date);
 // console.dir(date);
 
-// // date by spacific
+// // 😍 date by spacific
 
 // const fullDate = new Date(2010, 12, 11);
 // console.log(fullDate);
@@ -20,23 +20,32 @@ console.log(" 💚 Start Date Topic ");
 
 console.log(" 💚 End Date Topic");
 
-//  Functions
 console.log(" 💚 Start Function Topic");
 
-// DRY , Used for Code ResueAblity
+// 😍 Functions
 
-// function (functionName ) { Fumction Body } AT the End Calling or Invoking the Function
+// DRY (Don't repeat Yourself ) , Used for Code ResueAblity
+
+//  function (functionName ) { Fumction Body } AT the End Calling or Invoking the Function
 
 // Arguments are Passed during declearation , and para maters are pased when we call the functions
 
-function welcome(fullName) {
-  // parameters are passed
+// 😍 Simple Fumction
 
+function fName() {
+  console.log("This is Simple Function");
+}
+
+fName();
+
+// 😍  functon with parameter  and Arguments
+
+function welcome(fullName) {
   console.log(`${fullName} , Welcome to Our Website`);
 }
 welcome("Muhammad Ahsan"); // Arguments is Passed
 
-//  Use of Return Keyword
+// 😍  Use of Return Keyword
 
 function greeting(names) {
   return `Hi, ${names} , Nice to Meet you `;
