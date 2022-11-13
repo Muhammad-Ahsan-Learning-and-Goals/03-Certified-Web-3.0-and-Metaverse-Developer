@@ -15,6 +15,12 @@ console.log(date.getDay);
 console.log(date.getMonth);
 console.log(date.getHours());
 
-// Functions
+// 💚 Functions
 
 // DRY , Used for Code ResueAblity
+
+// function (functionName ) { Fumction Body } AT the End Calling or Invoking the Function
+
+function welcome() {
+  console.log("Hello , Muhammad Ahsan");
+}
