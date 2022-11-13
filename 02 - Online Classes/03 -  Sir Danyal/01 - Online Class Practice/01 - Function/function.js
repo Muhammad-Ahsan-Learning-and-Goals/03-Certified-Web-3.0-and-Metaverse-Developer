@@ -27,7 +27,7 @@ console.log("Start Function Topic");
 
 // function (functionName ) { Fumction Body } AT the End Calling or Invoking the Function
 
-function welcome() {
-  console.log("Hello , Muhammad Ahsan");
+function welcome(fullName) {
+  console.log(${fullName} , "Welcome to Our Website");
 }
 welcome();
