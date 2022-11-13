@@ -8,4 +8,5 @@ console.dir(date);
 const fullDate = new Date(2010, 12, 11);
 console.log(fullDate);
 console.log(date.getDate());
+console.log(date.getDay());
 
