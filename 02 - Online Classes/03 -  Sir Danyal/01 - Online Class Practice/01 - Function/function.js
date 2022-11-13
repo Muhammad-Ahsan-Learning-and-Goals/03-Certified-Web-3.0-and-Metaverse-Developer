@@ -27,7 +27,9 @@ console.log("Start Function Topic");
 
 // function (functionName ) { Fumction Body } AT the End Calling or Invoking the Function
 
-function welcome(fullName) {
-  console.log(${fullName} , "Welcome to Our Website");
+// Arguments are Passed during declearation , and para maters are pased when we call the functions
+
+function welcome(fullName) {  // parameters are passed
+  console.log(`${fullName} , Welcome to Our Website`);
 }
-welcome();
+welcome("Muhammad Ahsan"); // Arguments is Passed
