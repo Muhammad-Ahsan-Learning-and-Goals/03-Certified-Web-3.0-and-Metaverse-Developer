@@ -1,6 +1,6 @@
 // print  current date
 
-console.log("Start Date Topic ");
+console.log(" 💚 Start Date Topic ");
 
 // const date = new Date();
 // console.log(date);
@@ -18,10 +18,10 @@ console.log("Start Date Topic ");
 // console.log(date.getMonth);
 // console.log(date.getHours());
 
-console.log("End Date Topic");
+console.log(" 💚 End Date Topic");
 
-// 💚 Functions
-console.log("Start Function Topic");
+//  Functions
+console.log(" 💚 Start Function Topic");
 
 // DRY , Used for Code ResueAblity
 
@@ -29,7 +29,8 @@ console.log("Start Function Topic");
 
 // Arguments are Passed during declearation , and para maters are pased when we call the functions
 
-function welcome(fullName) {  // parameters are passed
+function welcome(fullName) {
+  // parameters are passed
   console.log(`${fullName} , Welcome to Our Website`);
 }
 welcome("Muhammad Ahsan"); // Arguments is Passed
