@@ -57,9 +57,8 @@ console.log(greet);
 // Example no 02
 
 function add(x, y) {
-  return `${(x, y)}`;
+  return `${x + y}`;
 }
 
-let addition = add(32 + 12);
-console.log(addition,"Addition of two Numbers");
-
+let addition = add(32, 12);
+console.log(`Addition of two Numbers is =   ${addition}`);
