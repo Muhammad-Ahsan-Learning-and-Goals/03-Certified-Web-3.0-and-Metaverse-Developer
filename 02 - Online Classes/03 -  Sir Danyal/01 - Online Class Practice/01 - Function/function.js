@@ -15,3 +15,6 @@ console.log(date.getDay);
 console.log(date.getMonth);
 console.log(date.getHours());
 
+// Functions
+
+// DRY , Used for Code ResueAblity
