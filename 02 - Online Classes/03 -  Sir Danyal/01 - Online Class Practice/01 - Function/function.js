@@ -31,6 +31,16 @@ console.log(" 💚 Start Function Topic");
 
 function welcome(fullName) {
   // parameters are passed
+
   console.log(`${fullName} , Welcome to Our Website`);
 }
 welcome("Muhammad Ahsan"); // Arguments is Passed
+
+//  Use of Return Keyword
+
+function greeting(names) {
+  return `Hi, ${names} , Nice to Meet you `;
+}
+
+let greet = greeting("Ali");
+console.log(greet);
