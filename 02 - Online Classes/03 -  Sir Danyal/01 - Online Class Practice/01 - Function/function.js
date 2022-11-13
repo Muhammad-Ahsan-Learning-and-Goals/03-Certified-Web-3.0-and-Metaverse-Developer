@@ -53,3 +53,5 @@ function greeting(names) {
 
 let greet = greeting("Ali");
 console.log(greet);
+
+// Example no 02
