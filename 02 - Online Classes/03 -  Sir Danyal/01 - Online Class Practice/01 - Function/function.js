@@ -7,3 +7,5 @@ console.dir(date);
 // date by spacific
 const fullDate = new Date(2010, 12, 11);
 console.log(fullDate);
+console.log(date.getDate());
+
