@@ -32,33 +32,49 @@ console.log(" 💚 Start Function Topic");
 
 // 😍 Simple Fumction
 
-function fName() {
-  console.log("This is Simple Function");
-}
+// function fName() {
+//   console.log("This is Simple Function");
+// }
 
-fName();
+// fName();
 
 // 😍  functon with parameter  and Arguments
 
-function welcome(fullName) {
-  console.log(`${fullName} , Welcome to Our Website`);
-}
-welcome("Muhammad Ahsan"); // Arguments is Passed
+// function welcome(fullName) {
+//   console.log(`${fullName} , Welcome to Our Website`);
+// }
+// welcome("Muhammad Ahsan"); // Arguments is Passed
 
-// 😍  Use of Return Keyword
-
-function greeting(names) {
-  return `Hi, ${names} , Nice to Meet you `;
-}
-
-let greet = greeting("Ali");
-console.log(greet);
+// 😍  Use of Return Keywor 1
 
 // Example no 02
 
-function add(x, y) {
-  return `${x + y}`;
-}
+// function greeting(names) {
+//   return `Hi, ${names} , Nice to Meet you `;
+// }
 
-let addition = add(32, 12);
-console.log(`Addition of two Numbers is =   ${addition}`);
+// let greet = greeting("Ali");
+// console.log(greet);
+
+// Example no 02
+
+// function add(x, y) {
+//   return `${x + y}`;
+// }
+
+// let addition = +prompt(add());
+// console.log(`Addition of two Numbers is =   ${addition}`);
+
+// if (addition > 70) {
+//   console.log("You are Pass ");
+// } else {
+//   console.log("You Are fail ");
+// }
+
+// 😍 Arrow Function
+
+let arrowFunc = () => {
+  console.log("Simple Arrow Function");
+};
+
+arrowFunc();
