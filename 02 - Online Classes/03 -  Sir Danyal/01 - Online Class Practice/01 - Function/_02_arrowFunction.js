@@ -7,7 +7,7 @@ console.log(" 💚 Start Arrow Function Topic");
 
 // arrowFunc();
 
-// 😍  Use of this // Arrow functio could not use in this
+// 😍  Use of this // Arrow function could not use in this
 
 let person = {
   fName: "Muhammad",
