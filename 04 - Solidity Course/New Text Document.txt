@@ -1,0 +1,23 @@
+<script>
+      contract jasim{
+
+        string name;
+        unit age;
+
+      }
+
+      constructor() public {
+        name ="ali";
+        age =18;
+      }
+
+      function getname() view public returns(string memory)
+      {
+        return name;
+      }
+
+      function getage() view public returns(uint)
+      {
+        return age;
+      }
+    </script>
