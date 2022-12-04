@@ -14,4 +14,12 @@ let firstName : string = "Muhammad";
 
 // firstName.toUpperCase;
 console.log(firstName);
-export{}
+
+
+// let hero = 34;
+// function getHero(){
+//     return "true"
+// }
+// hero = getHero()
+
+// export{}

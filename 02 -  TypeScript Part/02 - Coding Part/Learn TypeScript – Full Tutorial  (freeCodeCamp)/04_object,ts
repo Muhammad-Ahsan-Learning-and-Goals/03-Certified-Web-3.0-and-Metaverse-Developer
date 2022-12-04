@@ -1,0 +1,7 @@
+const user = {
+  name: "Ali",
+  email: "Ali@h.com",
+  isActive: true,
+};
+
+// 1:18:33 out of 4:46:24
