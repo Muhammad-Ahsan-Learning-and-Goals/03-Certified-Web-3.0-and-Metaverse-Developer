@@ -1,9 +1,0 @@
-Web 3 and Metaverse TypeScript Journey Starts:
-
-Web 3 and Metaverse students as soon as you appear in JavaScript Quiz, please start working on:
-
-Do Steps 00 to 08:
-https://github.com/panaverse/learn-typescript
-
-Watch:
-https://www.youtube.com/watch?v=30LWjhZzg50
