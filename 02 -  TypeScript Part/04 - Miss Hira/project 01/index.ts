@@ -3,3 +3,7 @@ console.log("Heelo");
 
 let  fname: string = "ahsan";
 console.log(fname);
+
+// any 
+let a;
+a="Ali"
