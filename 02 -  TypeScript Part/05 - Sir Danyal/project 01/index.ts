@@ -19,3 +19,6 @@ console.log(a1.toUpperCase());
 let a2= 23.6;
 a2.toFixed();
 console.log(a2)
+
+
+//Till Chapter No 02 
