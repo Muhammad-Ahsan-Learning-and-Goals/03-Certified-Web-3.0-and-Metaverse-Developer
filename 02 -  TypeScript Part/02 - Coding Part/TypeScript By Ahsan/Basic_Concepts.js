@@ -1,1 +1,3 @@
-document.write("Hello Word");
+"use strict";
+let variable = "Muhammad Ahsan";
+console.log(variable);
