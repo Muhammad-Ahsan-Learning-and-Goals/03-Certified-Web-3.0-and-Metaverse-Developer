@@ -1,4 +1,13 @@
-let variable :string="Muhammad Ahsan";
+let variable  ="Muhammad Ahsan";
 console.log(variable);
-let varible:string = 34;
+
+
+let fname;
+
+
+fname = "Ahsan"
+fname.toUpperCase();
+console.log(fname);
+
+
 
