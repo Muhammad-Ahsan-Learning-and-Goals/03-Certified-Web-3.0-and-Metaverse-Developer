@@ -1,3 +1,0 @@
-
-//node k sath js file ko run krty han
-//tsc ko run kr k js file bnaty han
