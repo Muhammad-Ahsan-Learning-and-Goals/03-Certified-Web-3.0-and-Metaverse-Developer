@@ -1,0 +1,32 @@
+0x0aa510D473095951e5baca3036f9aeA3849dBD3e
+token link :
+https://goerli.etherscan.io/token/0x0aa510D473095951e5baca3036f9aeA3849dBD3e
+
+https://app.ens.domains/name/muhammadahsan.eth/details
+
+muhammadahsan.eth
+
+Well! Transaction done!
+Transaction Hash: 0x9f0520ce3bed6c72e23e0daa5670b6935056d1af10f0b01888b474686983ee9e
+
+
+https://www.smartcontracts.tools/token-watcher/page/?
+hash=0x7b2261646472657373223a22307862376662393845353832314535336439386439384336623132633332643844616266623033463561222c226c6f676f223a22227d&network=ethereum_goerli
+
+0x53a067dB7D5175370f9a8d4365B55C4426B7E868
+
+
+
+
+Assignment No 02
+
+Challenge Assignment: Supply and Borrow
+Assets with Aave Protocol
+Supply and Borrow Assets from the Aave Protocol (on a Testnet)
+
+
+AAVE Supply 
+https://goerli.etherscan.io/tx/0x88596d022009121516b12101b97ab4e4a18c0b5ad189c8890531f963ea452336
+
+AAVE Borrow
+https://goerli.etherscan.io/tx/0xb74305362cce027b61c3dd8a4c4ebbffe99e92ba27476e6d890778e3f3ceeb4f
